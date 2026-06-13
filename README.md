@@ -62,8 +62,8 @@ At my current internship, I work across the full data & AI stack:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=10xiq200&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xiq200&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anmolcool&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolcool&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" height="155"/>
 </p>
 
 <p align="center">
