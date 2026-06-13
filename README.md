@@ -67,7 +67,7 @@ At my current internship, I work across the full data & AI stack:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=10xiq200&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolcool&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
 </p>
 
 ---
