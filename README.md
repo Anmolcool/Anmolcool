@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm 10xiq200 👋
+# Hi, I'm Anmol 👋
 
-### Data & ML Engineer in the Making
+### Data & Machine Learning Engineer
 
 *Curious about how data becomes decisions.*
 *Currently turning that curiosity into production.*
